@@ -1,6 +1,7 @@
 # 5. How **Prompt** and **Context** Engineering Work Together
 
-The most powerful results from LLMs don't come from using just a good prompt *or* good context—they come from expertly combining both. They are two sides of the same coin, working together to achieve a specific outcome.
+The most powerful results from LLMs don't come from using just a good prompt *or* good context
+they come from expertly combining both. They are two sides of the same coin, working together to achieve a specific outcome.
 
 Think of the process as a relay race: **Context** runs the first leg, setting up the entire situation, and **Prompt** runs the final leg, directing the specific action.
 
