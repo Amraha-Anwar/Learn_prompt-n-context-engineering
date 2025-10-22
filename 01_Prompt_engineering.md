@@ -2,7 +2,7 @@
 
 If an **LLM** is a powerful digital brain that can generate text, **Prompt Engineering** is the specialized skill of **talking** to that brain in a way that guarantees you get the exact, high-quality output you need.
 
-It's much more than just asking a question. It is the careful, systematic process of designing the **Prompt**—the input text or instructions you send to the AI—to reliably guide the LLM's vast knowledge toward a very specific, useful goal.
+It's much more than just asking a question. It is the careful, systematic process of designing the **Prompt** the input text or instructions you send to the AI to reliably guide the LLM's vast knowledge toward a very specific, useful goal.
 
 ### The Analogy: A Chef and a Recipe
 
