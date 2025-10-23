@@ -197,24 +197,24 @@ Experts that specialize in documentation writing will activate effectively.
 - **Language:** `<choose one>`  
 - **Output:** `<format or structure>`  
 
----
+
 
 ### **Instructions**
 1. Step one  
 2. Step two  
 3. Step three  
 
----
+
 
 ### **Examples (optional, short and relevant)**
 `<in-domain examples>`
 
----
+
 
 ### **Context (if any)**
 `<relevant data or references>`
 
----
+
 
 **Now solve the task.**
 
